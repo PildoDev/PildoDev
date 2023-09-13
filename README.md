@@ -1,8 +1,8 @@
 
 <div align="center">
-<h3>Hi there 👋<br>
+<h2>Hi there 👋<br>
   I'm Juan Ospina but I'm called "PildoDev"<br>
-And this is my github profile</h3>
+And this is my github profile</h2>
 </div>
 
 <table>
