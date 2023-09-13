@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://github.com/PildoDev/PildoDev/blob/ebd69770e257600cba6cc7745036eb0453dfc10e/style.css">
 </head>
 
 <div align="center">
