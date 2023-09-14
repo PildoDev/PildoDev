@@ -11,12 +11,18 @@ And this is my github profile</h2>
       <h4>My stats:</h4>
     </th>
     <th>
+      <h4>Most used languages:</h4>
+    </th>
+    <th>
       <h4>About me:</h4>
     </th>
   </tr>
   <tr>
     <th>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PildoDev&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PildoDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    </th>
+    <th>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PildoDev&hide=ShaderLab,HLSL&theme=github_dark"/>
     </th>
     <th>
       <a href="mailto:pildo.dev" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
