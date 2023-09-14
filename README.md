@@ -5,39 +5,17 @@
 And this is my github profile</h2>
 </div>
 
-<table>
-  <tr>
-    <th>
-      <h4>My stats:</h4>
-    </th>
-    <th>
-      <h4>Most used languages:</h4>
-    </th>
-    <th>
-      <h4>About me:</h4>
-    </th>
-  </tr>
-  <tr>
-    <th>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PildoDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    </th>
-    <th>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PildoDev&hide=ShaderLab,HLSL&theme=github_dark"/>
-    </th>
-    <th>
-      <a href="mailto:pildo.dev" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/pildodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    </th>
-  </tr>
-</table>
-
-
-<table>
-<tr>
-
-
-</tr>
-</table>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PildoDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PildoDev&hide=ShaderLab,HLSL&theme=github_dark" />
+</a>
+<div>
+  <br>
+<a href="mailto:pildo.dev" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/pildodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 <div>
 <h4>Core Skills:</h4>
