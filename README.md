@@ -16,7 +16,7 @@ And this is my github profile</h2>
   </tr>
   <tr>
     <th>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PildoDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PildoDev&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
     </th>
     <th>
       <a href="mailto:pildo.dev" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
