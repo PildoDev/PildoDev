@@ -6,7 +6,7 @@ And this is my github profile</h2>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PildoDev&show_icons=true&theme=github_dark&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PildoDev&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PildoDev&hide=ShaderLab,HLSL&theme=github_dark" />
