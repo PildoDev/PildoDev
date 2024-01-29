@@ -1,10 +1,11 @@
 
 <div align="center">
+  
 <h2>Hi there 👋<br>
   I'm Juan Ospina but I'm called "PildoDev"<br>
-And this is my github profile</h2>
-<br>
+And this is my github profile
 <img src="images/snake.svg" style="background:#161b22;">
+</h2>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
