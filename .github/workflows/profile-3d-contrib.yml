@@ -9,9 +9,9 @@ on:
   
   # run on every push on the main branch
   # don't forget to change if you're using 'master' branch
-#   push:
-#     branches:
-#     - main
+  push:
+    branches:
+    - main
 
 jobs:
   build:
