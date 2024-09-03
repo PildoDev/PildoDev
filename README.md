@@ -1,11 +1,10 @@
 
 <div align="center">
-  
-<h2>Hi there 👋<br>
-  I'm Juan Ospina but I'm called "PildoDev"<br>
-And this is my github profile
-<img src="images/snake.svg" style="background:#161b22;">
-</h2>
+  <h2>Hi there 👋<br>
+    I'm Juan Ospina but I'm called "PildoDev"<br>
+    And this is my github profile
+    <img src="images/snake.svg" style="background:#161b22;">
+  </h2>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
@@ -21,82 +20,119 @@ And this is my github profile
 </div>
 
 <div>
-<h4>Core Skills:</h4>
-  <table>
-    <tr>
-      <th>Logo</th>
-      <td align="center"><img width="30" height="30" alt="PildoDev-HTML"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></td>
-      <td align="center"><img width="30" height="30" alt="PildoDev-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></td>
-      <td align="center"><img width="30" height="30" alt="PildoDev-Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></td>
-      <td align="center"><img width="30" height="30" alt="PildoDev-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></td>
-      <td align="center"><img width="30" height="30" alt="PildoDev-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></td>
-      <td align="center"><img width="30" height="30" alt="PildoDev-Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></td>
-      <td align="center"><img width="30" height="30" alt="PildoDev-" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></td>
-      <td align="center"><img width="30" height="30" alt="PildoDev-Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></td>
-      <td align="center"><img width="30" height="30" alt="PildoDev-Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"></td>
-      <td align="center"><img width="30" height="30" alt="PildoDev-Unity" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></td>
-    </tr>
-    <tr>
-      <th>Name</th>
-      <td>HTML5</td>
-      <td>CSS3</td>
-      <td>Javascript</td>
-      <td>Java</td>
-      <td>Python</td>
-      <td>Angular</td>
-      <td>React</td>
-      <td>Laravel</td>
-      <td>Wordpress</td>
-      <td>Unity</td>
-    </tr>
-    <tr>
-      <th>Knowledge level</th>
-      <td>SKILLED</td>
-      <td>SKILLED</td>
-      <td>SKILLED</td>
-      <td>SKILLED</td>
-      <td>SKILLED</td>
-      <td>SKILLED</td>
-      <td>SKILLED</td>
-      <td>SKILLED</td>
-      <td>SKILLED</td>
-      <td>SKILLED</td>
-    </tr>
-  </table>
+    <h4>Core Skills:</h4>
+    <table>
+        <tr>
+            <th>Logo</th>
+            <td align="center"><img width="30" height="30" alt="PildoDev-HTML"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></td>
+            <td align="center"><img width="30" height="30" alt="PildoDev-CSS"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></td>
+            <td align="center"><img width="30" height="30" alt="PildoDev-Javascript"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></td>
+            <td align="center"><img width="30" height="30" alt="PildoDev-Java"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></td>
+            <td align="center"><img width="30" height="30" alt="PildoDev-Python"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>HTML5</td>
+            <td>CSS3</td>
+            <td>JavaScript</td>
+            <td>Java</td>
+            <td>Python</td>
+        </tr>
+        <tr>
+            <th>Knowledge level</th>
+            <td>SKILLED</td>
+            <td>SKILLED</td>
+            <td>SKILLED</td>
+            <td>SKILLED</td>
+            <td>SKILLED</td>
+        </tr>
+    </table>
 </div>
 
 <div>
-<h4>Other Skills:</h4>
-  <table>
-    <tr>
-      <th>Logo</th>
-      <td align="center"><img width="30" height="30" alt="PildoDev-Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></td>
-      <td align="center"><img width="30" height="30" alt="PildoDev-Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></td>
-    </tr>
-    <tr>
-      <th>Name</th>
-      <td>Numpy</td>
-      <td>Pandas</td>
-    </tr>
-    <tr>
-      <th>Knowledge level</th>
-      <td>SKILLED</td>
-      <td>SKILLED</td>
-    </tr>
-  </table>
+    <h4>Frameworks & Libraries:</h4>
+    <table>
+        <tr>
+            <th>Logo</th>
+            <td align="center"><img width="30" height="30" alt="PildoDev-Angular"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></td>
+            <td align="center"><img width="30" height="30" alt="PildoDev-React"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></td>
+            <td align="center"><img width="30" height="30" alt="PildoDev-Laravel"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"></td>
+            <td align="center"><img width="30" height="30" alt="PildoDev-Wordpress"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"></td>
+            <td align="center"><img width="30" height="30" alt="PildoDev-ViteJs"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"></td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>Angular</td>
+            <td>React</td>
+            <td>Laravel</td>
+            <td>Wordpress</td>
+            <td>ViteJs</td>
+        </tr>
+        <tr>
+            <th>Knowledge level</th>
+            <td>SKILLED</td>
+            <td>SKILLED</td>
+            <td>SKILLED</td>
+            <td>SKILLED</td>
+            <td>SKILLED</td>
+        </tr>
+    </table>
 </div>
 
-<!--
-**PildoDev/PildoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <h4>Game Development:</h4>
+    <table>
+        <tr>
+            <th>Logo</th>
+            <td align="center"><img width="30" height="30" alt="PildoDev-Unity"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"></td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>Unity</td>
+        </tr>
+        <tr>
+            <th>Knowledge level</th>
+            <td>SKILLED</td>
+        </tr>
+    </table>
+</div>
 
-Here are some ideas to get you started:
+<div>
+    <h4>Other Skills:</h4>
+    <table>
+        <tr>
+            <th>Logo</th>
+            <td align="center"><img width="30" height="30" alt="PildoDev-Numpy"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></td>
+            <td align="center"><img width="30" height="30" alt="PildoDev-Pandas"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></td>
+            <td align="center"><img width="30" height="30" alt="PildoDev-TensorFlow"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>Numpy</td>
+            <td>Pandas</td>
+            <td>TensorFlow</td>
+        </tr>
+        <tr>
+            <th>Knowledge level</th>
+            <td>SKILLED</td>
+            <td>SKILLED</td>
+            <td>SKILLED</td>
+        </tr>
+    </table>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
