@@ -1,7 +1,6 @@
 [
     {
         "type": "normal",
-        "fileName": "day.svg",
         "backgroundColor": "#ffffff",
         "foregroundColor": "#00000f",
         "strongColor": "#111133",
@@ -14,23 +13,6 @@
             "#8cc569",
             "#47a042",
             "#1d6a23"
-        ]
-    },
-    {
-        "type": "night",
-        "fileName": "night.svg",
-        "backgroundColor": "#0d1117",
-        "foregroundColor": "#c9d1d9",
-        "strongColor": "#f0a500",
-        "weakColor": "#30363d",
-        "radarColor": "#f0a500",
-        "growingAnimation": true,
-        "contribColors": [
-            "#002b36",
-            "#073642",
-            "#586e75",
-            "#839496",
-            "#268bd2"
         ]
     }
 ]
